@@ -1,0 +1,5 @@
+Prefix
+crmsci:;http://www.ics.forth.gr/isl/CRMsci/
+crmarch:;http://www.ics.forth.gr/isl/CRMarchaeo/
+frantiq:;https://ark.frantiq.fr/ark:/26678/
+crm:;http://www.cidoc-crm.org/cidoc-crm/
